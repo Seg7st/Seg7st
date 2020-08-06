@@ -28,10 +28,13 @@ Mi nombre es **Andrés Segura.**
 ### Estadisticas:
 <img align="left" alt="Seg7st's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Seg7st&show_icons=true&hide_border=true" />
 
+<br>
 
 
 
 <!--
+Estadisticas en thema oscuro
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Seg7st&show_icons=true&theme=dark" />
 
 **Seg7st/Seg7st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
