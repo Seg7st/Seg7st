@@ -26,7 +26,7 @@ Mi nombre es **Andrés Segura.**
 <br/>
 
 ### Estadisticas:
-<img align="left" alt="Seg7st's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Seg7st&show_icons=true&hide_border=true" />
+<img align="left" alt="Andrés's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andr7st&show_icons=true&hide_border=true" />
 
 <br>
 
