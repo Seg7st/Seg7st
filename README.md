@@ -4,7 +4,7 @@ Mi nombre es **Andrés Segura.**
 
 - 💪 Por ahora estoy formándome en sistemas.
 - 🌱 Estoy aprendiendo el idioma **Inglés** y el lenguaje de programación **python** entre otras habilidades.
-- 🧙‍♂️ Soy un soldado que busca crecer y convertirse en un gran programador.
+- 🧙‍♂️ Soy un soldado que busca crecer y convertirse en programador.
 - 🌎 Mi lugar en el mapa: Bogotá - Colombia.
 - 📔 Mi mayor pasatiempo en este momento fuera del mundo informatico es la escritura.
 
