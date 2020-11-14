@@ -3,15 +3,26 @@
 Mi nombre es **Andrés Segura.**
 
 - 💪 Por ahora estoy formándome en sistemas.
-- 🌱 Estoy aprendiendo el idioma **Inglés** y el lenguaje de programación **python** entre otras habilidades.
-- 🧙‍♂️ Soy un soldado que busca crecer y convertirse en programador.
+- 🌱 Estoy aprendiendo el idioma **Inglés** y programación con **Java** entre otras habilidades.
+- 🧙‍♂️ Soy un soldado que busca crecer y convertirse en un buen programador.
 - 🌎 Mi lugar en el mapa: Bogotá - Colombia.
 - 📔 Mi mayor pasatiempo en este momento fuera del mundo informatico es la escritura.
 
 Mi [lista](https://github.com/Andr7st/index/) en construcción.
 
 ### Tools:
+
+
 <!-- Iconos  -->
+
+![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_vscode.png)
+![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_python.png)
+![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_java.png)
+![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_kotlin.png)
+![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_git.png)
+![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_github.png)
+
+<!--
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -24,6 +35,9 @@ Mi [lista](https://github.com/Andr7st/index/) en construcción.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+-->
+
 <br>
 <br>
 
