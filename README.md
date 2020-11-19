@@ -8,7 +8,7 @@ Mi nombre es **Andrés Segura.**
 - 🌎 Mi lugar en el mapa: Bogotá - Colombia.
 - 📔 Mi mayor pasatiempo en este momento fuera del mundo informatico es la escritura.
 
-Mi [lista](https://github.com/Andr7st/index/) en construcción.
+-- > [INDEX](https://github.com/Andr7st/index/). < --
 
 ---
 
