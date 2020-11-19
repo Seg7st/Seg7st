@@ -10,7 +10,9 @@ Mi nombre es **Andrés Segura.**
 
 Mi [lista](https://github.com/Andr7st/index/) en construcción.
 
-### Tools:
+---
+
+#### Tools:
 
 
 <!-- Iconos  -->
@@ -38,17 +40,14 @@ Mi [lista](https://github.com/Andr7st/index/) en construcción.
 
 -->
 
-<br>
-<br>
-
 <!--
 
-### Estadisticas:
+#### Estadisticas:
 <img align="left" alt="Andrés's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andr7st&show_icons=true&hide_border=true" />
  
 -->
 
-<br>
+---
 
 #### Prácticas con Java:
 
