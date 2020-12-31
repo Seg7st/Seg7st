@@ -12,10 +12,10 @@ Mi nombre es **Andrés Segura.**
 
 ---
 
+<!-- 
 #### Tools:
 
-
-<!-- Iconos  -->
+Iconos  -->
 
 ![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_vscode.png)
 ![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_python.png)
@@ -46,7 +46,7 @@ Mi nombre es **Andrés Segura.**
 <img align="left" alt="Andrés's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andr7st&show_icons=true&hide_border=true" />
  
 -->
-
+<!--
 ---
 
 #### Prácticas con Java:
@@ -59,7 +59,7 @@ Mi nombre es **Andrés Segura.**
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-Ex-FileRead](https://github.com/Andr7st/Java-Ex-FileRead) | Leer un archivo de texto plano. |
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-LeerJSON](https://github.com/Andr7st/Java-LeerJSON) | Leer archivos JSON, usando librería. |
 
-
+-->
 <br>
 
 <!-- FIN -->
