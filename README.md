@@ -1,28 +1,32 @@
-### ¡Hola que tal! 👋
-
-Mi nombre es **Andrés Segura.**
-
-- 💪 Por ahora estoy formándome en sistemas.
-- 🌱 Estoy aprendiendo el idioma **Inglés** y programación con **Java** entre otras habilidades.
-- 🧙‍♂️ Soy un soldado que busca crecer y convertirse en un buen programador.
-- 🌎 Mi lugar en el mapa: Bogotá - Colombia.
-- 📔 Mi mayor pasatiempo en este momento fuera del mundo informatico es la escritura.
-
--- > [INDEX](https://github.com/Andr7st/index/). < --
-
----
+#### Hello World! 👋
 
 <!-- 
 #### Tools:
 
 Iconos  -->
 
-![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_vscode.png)
-![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_python.png)
-![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_java.png)
-![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_kotlin.png)
-![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_git.png)
-![Lista.md](https://raw.github.com/Andr7st/index/master/img/x32_github.png)
+![icon](https://raw.github.com/Andr7st/index/main/andr7st/read/icon/0/32px/java-open.png)
+![icon](https://raw.github.com/Andr7st/index/main/andr7st/read/icon/0/32px/git.png)
+![icon](https://raw.github.com/Andr7st/index/main/andr7st/read/icon/0/32px/json.png)
+![icon](https://raw.github.com/Andr7st/index/main/andr7st/read/icon/0/32px/linux.png)
+![icon](https://raw.github.com/Andr7st/index/main/andr7st/read/icon/0/32px/sql.png)
+
+
+Mi nombre es **Andrés Segura.**
+
+- 💪 Por ahora estoy formándome en sistemas.
+- 🌱 Estoy aprendiendo programación.
+- 🌎 Mi lugar en el mapa: Bogotá - Colombia.
+- 📔 Mi mayor pasatiempo en este momento fuera del mundo informatico es la escritura.
+
+
+---
+
+[**Andr7st/index**](https://github.com/Andr7st/index/).
+
+
+
+
 
 <!--
 
